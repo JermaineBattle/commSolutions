@@ -1,0 +1,119 @@
+body{
+	text-align: center;
+	margin: 0 auto;
+	width: 100vw;
+	height: 100%;
+}
+
+.bod {
+	background-color: rgba(274,270,165,.2);
+	background-image: url('../bg_overlay.png');
+	background-repeat: no-repeat;
+	background-position: fixed;
+	back
+}
+
+a{
+	color: inherit;
+	font-family: inherit;
+	font-weight: inherit;
+	text-decoration: inherit;
+}
+
+
+.logo {
+	width: 171px;
+}
+
+nav ul{
+	background-color: rgba(24, 133,255,.2);
+}
+
+nav ul li:hover{
+	background-color: rgba(24, 133,255,1);
+	color: white;
+}
+
+nav li {
+	flex: 1;
+	padding: ;
+}
+
+.nav-container {
+	margin: auto 0;
+	background-color: rgba(255,255,255,.9);
+	/*background-color: rgba(274,270,165,.1);*/
+	position: fixed;
+	border-bottom: 1px solid black;
+}
+
+.nav {
+	width: 100%;
+	padding-top: 19px;
+}
+
+.bar {
+	background-color: black;
+	height: 10px;
+}
+
+
+
+
+.content {
+	margin-top: 50px;
+	margin-bottom: 35px;
+	margin-right: auto;
+	margin-left: auto;
+	/*border: 2px solid red;*/
+	background-color: rgba(24, 133,255,1);
+	
+	height: 600px;
+	width: 80%;
+	border-radius: 16px;
+	padding: 3px;
+
+}
+
+.box {
+	flex: 1;
+	height: 100%;
+	background-color: white;
+	/*border: 2px dotted red;*/
+	margin: auto 2px;
+	border-radius: 10px;
+}
+
+
+.home-img {
+	position: relative;
+	top: 150px;
+}
+
+
+footer {
+	background-color: black;
+	height: 100px;
+	color: white;
+	font-size: 12px;
+}
+
+
+
+.foot-box {
+	flex: 1;
+}
+
+
+
+
+
+
+
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: $carousel-caption-color;
+  text-align: center;
+}
+*/
